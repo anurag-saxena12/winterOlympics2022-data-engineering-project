@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vaults_olympic_beijing_kv1_name": {
+            "value": null
+        },
+        "workspaces_olympic_beijing_db_name": {
+            "value": null
+        },
+        "workspaces_olympic_beijing_synapp_name": {
+            "value": null
+        },
+        "storageAccounts_olympicbeijingdata_name": {
+            "value": null
+        }
+    }
+}
